@@ -1,11 +1,7 @@
 from Full import inputs
 
-print ("yes")
-
-
 def test_date_in(date1):
     '''
-
     :param date: str to be tested
 
     checks that year, month and day can be converted into an int, and that
