@@ -1,5 +1,5 @@
 # airCrawler
-an airBnB crawler, with GUI interface, which gathers, filters and displays data from results of a given search criteria
+An airBnB crawler, with GUI interface, which gathers, filters and displays data from results of a given search criteria.
 
 Issues: crawler crashes at the end of crawling, was working before, perhaps a change to the airBnB website url construction, bug due to no data to be displayed at end of crawl.
 
